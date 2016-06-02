@@ -31,6 +31,36 @@
     <script src="Scripts/jquery-2.2.3.min.js"></script>
     <script src="Scripts/bootstrap.min.js"></script>
     <script src="Scripts/app.js"></script>
+    <div class="navbar-fixed-bottom">
 
+
+        <ul class="nav navbar-nav navbar">
+            <div class="navbar-text pull-left">
+                <p>© 2015 Jinal Patel</p>
+            </div>
+
+            <style>
+                a {
+                    color: inherit;
+                    text-decoration: none;
+                }
+            </style>
+
+            <div class="navbar-text pull-right">
+
+                <a href="https://github.com/Jinalkumar"><i class="fa fa-github-square fa-2x"></i></a>
+
+                <a href="https://ca.linkedin.com/pub/jinal-patel/b6/962/6b9"><i class="fa fa-linkedin-square fa-2x"></i></a>
+
+                <a href="https://instagram.com/jinal57/"><i class="fa fa-instagram fa-2x"></i></a>
+
+                <a href="https://twitter.com/Jinalpatel5"><i class="fa fa-twitter-square fa-2x"></i></a>
+
+                <a href="http://facebook.com/jinal.alarsa"><i class="fa fa-facebook-square fa-2x"></i></a>
+
+            </div>
+
+        </ul>
+    </div>
 </body>
 </html>

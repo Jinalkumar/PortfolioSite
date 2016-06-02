@@ -26,7 +26,7 @@ namespace portfolioSite
                     home.Attributes.Add("class", "active");
                     break;
                 case "Contact":
-                    contact.Attributes.Add("class", "active");
+                    Contact.Attributes.Add("class", "active");
                     break;
             }
         }
